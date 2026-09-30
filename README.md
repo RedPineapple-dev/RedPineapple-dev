@@ -9,8 +9,8 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-RedPineapple--dev-181717?style=for-the-badge&logo=github)](https://github.com/RedPineapple-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode)](YOUR_LEETCODE_URL)
+[![LinkedIn](https://www.linkedin.com/in/kunal-agrawal-b85284358)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Kunal_Agrawal214/)
 
 </div>
 
@@ -22,13 +22,6 @@
 class Kunal {
 public:
     string role = "Computer Science Student";
-
-    vector<string> currentlyLearning = {
-        "Data Structures & Algorithms",
-        "Low Level Design",
-        "System Design",
-        "Software Development"
-    };
 
     vector<string> interests = {
         "Problem Solving",
