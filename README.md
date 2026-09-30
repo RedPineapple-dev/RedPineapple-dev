@@ -9,7 +9,7 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-RedPineapple--dev-181717?style=for-the-badge&logo=github)](https://github.com/RedPineapple-dev)
-[![LinkedIn](https://www.linkedin.com/in/kunal-agrawal-b85284358)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kunal-agrawal-b85284358)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Kunal_Agrawal214/)
 
 </div>
